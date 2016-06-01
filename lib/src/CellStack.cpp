@@ -1,7 +1,4 @@
-/*
-Andrew Nava-JuarezCa
-anava014@ucr.edu
-*/
+
 
 #include "../inc/CellStack.h"
 

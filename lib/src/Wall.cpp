@@ -1,7 +1,4 @@
-/*
-Andrew Nava-Juarez
-anava014@ucr.edu
-*/
+
 
 #include "../inc/Wall.h"
 

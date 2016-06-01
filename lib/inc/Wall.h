@@ -1,7 +1,4 @@
-/*
-Andrew Nava-Juarez
-anava014@ucr.edu
-*/
+
 
 #ifndef WALL_H
 #define WALL_H

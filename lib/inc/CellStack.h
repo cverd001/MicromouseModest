@@ -1,8 +1,3 @@
-/*
-Andrew Nava-Juarez
-anava014@ucr.edu
-*/
-
 #ifndef CELLSTACK_H
 #define CELLSTACK_H
 

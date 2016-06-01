@@ -1,7 +1,4 @@
-/*
-Andrew Nava-Juarez
-anava014@ucr.edu
-*/
+
 
 #ifndef CELL_H
 #define CELL_H
